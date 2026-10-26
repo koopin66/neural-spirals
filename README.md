@@ -7,7 +7,9 @@ numpy считает, [ManimGX](https://manimgx.academa.ai) рисует.
 
 ![Конец обучения: граница решения, веса сети и поднятые спирали](media/poster.png)
 
-▶ **Видео:** [`media/neural-spirals.mp4`](media/neural-spirals.mp4), 60 с, 1920×1080, 60 кадров/с
+
+https://github.com/user-attachments/assets/1156f402-3699-4bdd-b809-6008f72c5ae0
+
 
 ![Превью обучения](media/preview.gif)
 
