@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.egg-info/
+# manimgx inspect/render write storyboards beside their output
+*.storyboard*.png
